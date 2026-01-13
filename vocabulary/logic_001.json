@@ -1,0 +1,20 @@
+{
+  "(ID)": "logic_001",
+  "(IRI)": "https://invictaresearch.ai/vocabulary/logic_001",
+  "(Type)": "Atom",
+  "(Version)": 1,
+  "(New)": "https://invictaresearch.ai/vocabulary/logic_001/v/1",
+  "(Review + Status)": "Draft",
+  "(WFF + Level)": "Atom",
+  "(WFF + Link)": "https://invictaresearch.ai/vocabulary/logic_001/v/1#wff",
+  "(Sign)": {
+    "(Sign + Method)": "TBD",
+    "(Sign + Value)": "TBD",
+    "(Key + IRI)": "TBD"
+  },
+  "(Atom + Count)": 1,
+  "(Source + Link)": [
+    "https://www.thefreedictionary.com/logic"
+  ],
+  "(WFF + Text)": "(WFF) = (See MasterSpec_v0.1.md §03)  (Lisa validate)"
+}

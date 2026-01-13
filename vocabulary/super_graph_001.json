@@ -1,0 +1,19 @@
+{
+  "(ID)": "super_graph_001",
+  "(IRI)": "https://invictaresearch.ai/vocabulary/super_graph_001",
+  "(Type)": "(\"Super\" + \"Graph\")",
+  "(Version)": 1,
+  "(New)": "https://invictaresearch.ai/vocabulary/super_graph_001/v/1",
+  "(Review + Status)": "Draft",
+  "(WFF + Level)": "(\"Super\" + \"Graph\")",
+  "(WFF + Link)": "https://invictaresearch.ai/vocabulary/super_graph_001/v/1#wff",
+  "(Sign)": {
+    "(Sign + Method)": "TBD",
+    "(Sign + Value)": "TBD",
+    "(Key + IRI)": "TBD"
+  },
+  "((Super + Graph) + Link)": [
+    "https://invictaresearch.ai/vocabulary/pirtoe_graph_001"
+  ],
+  "(WFF + Text)": "(WFF) = (See MasterSpec_v0.1.md §03)  (Lisa validate)"
+}

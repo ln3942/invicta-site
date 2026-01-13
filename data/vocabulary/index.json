@@ -1,0 +1,32 @@
+[
+  {
+    "(ID)": "logic_001",
+    "(Type)": "Atom",
+    "(IRI)": "https://invictaresearch.ai/vocabulary/logic_001"
+  },
+  {
+    "(ID)": "set_principle_001",
+    "(Type)": "SSM",
+    "(IRI)": "https://invictaresearch.ai/vocabulary/set_principle_001"
+  },
+  {
+    "(ID)": "logic_substring_001",
+    "(Type)": "Substring",
+    "(IRI)": "https://invictaresearch.ai/vocabulary/logic_substring_001"
+  },
+  {
+    "(ID)": "psireal_001",
+    "(Type)": "Subgraph",
+    "(IRI)": "https://invictaresearch.ai/vocabulary/psireal_001"
+  },
+  {
+    "(ID)": "pirtoe_graph_001",
+    "(Type)": "Graph",
+    "(IRI)": "https://invictaresearch.ai/vocabulary/pirtoe_graph_001"
+  },
+  {
+    "(ID)": "super_graph_001",
+    "(Type)": "(\"Super\" + \"Graph\")",
+    "(IRI)": "https://invictaresearch.ai/vocabulary/super_graph_001"
+  }
+]

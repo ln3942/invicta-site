@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>INVICTA — Resolve</title>
+  <meta name="description" content="INVICTA: humanitarian-aligned, evidence-based, expert peer-reviewed decision support through PIRTOE (Problem–Intervention–Resource–Task–Outcome–Evaluation) graphs." />
+  <link rel="stylesheet" href="../assets/styles.css" />
+</head>
+<body>
+<header class="topbar">
+    <div class="container">
+      <a class="brand" href="#top">INVICTA</a>
+      <nav class="nav">
+        <a href="../index.html#top">Home</a>
+        <a href="../mission.html">Mission</a>
+        <a href="../platform.html">Platform</a>
+        <a href="../volunteer.html">Volunteer</a>
+        <a href="../vocabulary/">Vocabulary</a>
+        <a href="../resolve/">Resolve</a>
+        <a href="https://github.com/ln3942/invicta-platform" target="_blank" rel="noreferrer">GitHub</a>
+      </nav>
+    </div>
+  </header>
+<main class="content">
+
+<section class="hero">
+  <h1>Resolve</h1>
+  <p class="lead">
+    Paste an IRI or enter a ClosedVocabularyID to fetch the canonical record.
+  </p>
+</section>
+
+<section class="card">
+  <form id="resolver-form" class="form">
+    <label for="id-input">ClosedVocabularyID</label>
+    <input id="id-input" name="id" placeholder="e.g., logic_001" />
+    <button class="btn" type="submit">Resolve</button>
+  </form>
+  <p class="small">Tip: you can also use <code>/vocabulary/&lt;id&gt;</code> and it will redirect here.</p>
+</section>
+
+<section class="card">
+  <h2 id="record-title">Record</h2>
+  <div id="vocab-record"></div>
+</section>
+
+<section class="card">
+  <h2>Available IDs (Draft)</h2>
+  <ul id="vocab-index"></ul>
+</section>
+
+</main>
+<footer class="footer">
+      <div class="container">
+        <div class="footer-grid">
+          <div>
+            <div class="brand small">INVICTA</div>
+            <div class="muted">© INVICTA Research. Documentation scaffold for PIRTOE / PUO / WFF.</div>
+          </div>
+          <div class="muted right">
+            Built for GitHub Pages · zero-cost hosting
+          </div>
+        </div>
+      </div>
+    </footer>
+<script src="../assets/script.js"></script>
+<script src="../assets/vocab.js"></script>
+</body>
+</html>

@@ -1,0 +1,22 @@
+{
+  "(ID)": "set_principle_001",
+  "(IRI)": "https://invictaresearch.ai/vocabulary/set_principle_001",
+  "(Type)": "SSM",
+  "(Version)": 1,
+  "(New)": "https://invictaresearch.ai/vocabulary/set_principle_001/v/1",
+  "(Review + Status)": "Draft",
+  "(WFF + Level)": "SSM",
+  "(WFF + Link)": "https://invictaresearch.ai/vocabulary/set_principle_001/v/1#wff",
+  "(Sign)": {
+    "(Sign + Method)": "TBD",
+    "(Sign + Value)": "TBD",
+    "(Key + IRI)": "TBD"
+  },
+  "(Atom + Count)": 2,
+  "(Atom + List)": [
+    "https://invictaresearch.ai/vocabulary/set_001",
+    "https://invictaresearch.ai/vocabulary/principle_001"
+  ],
+  "(SSM)": "( \"Set\" + \"Principle\" )",
+  "(WFF + Text)": "(WFF) = (See MasterSpec_v0.1.md §03)  (Lisa validate)"
+}

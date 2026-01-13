@@ -1,0 +1,22 @@
+{
+  "(ID)": "pirtoe_graph_001",
+  "(IRI)": "https://invictaresearch.ai/vocabulary/pirtoe_graph_001",
+  "(Type)": "Graph",
+  "(Version)": 1,
+  "(New)": "https://invictaresearch.ai/vocabulary/pirtoe_graph_001/v/1",
+  "(Review + Status)": "Draft",
+  "(WFF + Level)": "Graph",
+  "(WFF + Link)": "https://invictaresearch.ai/vocabulary/pirtoe_graph_001/v/1#wff",
+  "(Sign)": {
+    "(Sign + Method)": "TBD",
+    "(Sign + Value)": "TBD",
+    "(Key + IRI)": "TBD"
+  },
+  "(Graph + Set)": "( \"PSIgold\" + \"PSIreal\" + \"PAIhistorical\" )",
+  "(Graph + Link)": [
+    "https://invictaresearch.ai/vocabulary/psigold_001",
+    "https://invictaresearch.ai/vocabulary/psireal_001",
+    "https://invictaresearch.ai/vocabulary/paihistorical_001"
+  ],
+  "(WFF + Text)": "(WFF) = (See MasterSpec_v0.1.md §03)  (Lisa validate)"
+}

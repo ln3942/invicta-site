@@ -1,0 +1,21 @@
+{
+  "(ID)": "psireal_001",
+  "(IRI)": "https://invictaresearch.ai/vocabulary/psireal_001",
+  "(Type)": "Subgraph",
+  "(Version)": 1,
+  "(New)": "https://invictaresearch.ai/vocabulary/psireal_001/v/1",
+  "(Review + Status)": "Draft",
+  "(WFF + Level)": "Subgraph",
+  "(WFF + Link)": "https://invictaresearch.ai/vocabulary/psireal_001/v/1#wff",
+  "(Sign)": {
+    "(Sign + Method)": "TBD",
+    "(Sign + Value)": "TBD",
+    "(Key + IRI)": "TBD"
+  },
+  "(Subgraph + Name)": "PSIreal",
+  "(Subgraph + Role)": "( \"Now\" + \"Practice\" )",
+  "(Subgraph + Link)": [
+    "https://invictaresearch.ai/vocabulary/logic_substring_001"
+  ],
+  "(WFF + Text)": "(WFF) = (See MasterSpec_v0.1.md §03)  (Lisa validate)"
+}

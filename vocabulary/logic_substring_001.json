@@ -1,0 +1,26 @@
+{
+  "(ID)": "logic_substring_001",
+  "(IRI)": "https://invictaresearch.ai/vocabulary/logic_substring_001",
+  "(Type)": "Substring",
+  "(Version)": 1,
+  "(New)": "https://invictaresearch.ai/vocabulary/logic_substring_001/v/1",
+  "(Review + Status)": "Draft",
+  "(WFF + Level)": "Substring",
+  "(WFF + Link)": "https://invictaresearch.ai/vocabulary/logic_substring_001/v/1#wff",
+  "(Sign)": {
+    "(Sign + Method)": "TBD",
+    "(Sign + Value)": "TBD",
+    "(Key + IRI)": "TBD"
+  },
+  "(PUO + Left)": {
+    "(Logic)": "Logic",
+    "(Subgraph)": "PSIreal",
+    "(Computation)": " ",
+    "(PIRTOE)": " ",
+    "(5WH)": " ",
+    "(Senses)": " ",
+    "(Sensemaking)": " "
+  },
+  "(CWW + Right)": "( \"Reason\"[(\"Set\" = \"Principle\")] + \"Apply\" + \"Branch\"[(\"Knowledge\")] + \"Analyse\"[(\"Knowledge\")] )",
+  "(WFF + Text)": "(PIRTOE + PUO + (Template[(Substring, Graph)]))[((Language = Formal) + (Grammar + Rule)) 1...n]\n\n(Substring) = (Logic → Subgraph → Computation → PIRTOE → 5WH → Senses → Sensemaking → CWW)\n\n((PIRTOE + PUO) + (Template = Substring))[(\n  (Logic[\"IF|THEN|AND|OR|ELSE\"],\n   Subgraph[\"PSIgold|PSIreal|PAIhistorical\"],\n   Computation[\"GOOD|BAD|BEST|BEST PRACTICE\"],\n   PIRTOE[\"PROBLEM|INTERVENTION|RESOURCE|TASK|OUTCOME|EVALUATION\"],\n   5WH[\"WHAT|WHERE|WHEN|WHO|WHY|HOW\"],\n   Senses[\"SEE|HEAR|SMELL|TASTE|TOUCH|INTUITION\"],\n   Sensemaking[\"FEEL|THINK|REMEMBER|UNDERSTAND|IDEA|INNOVATION|IMAGINE\"],\n   CWW:{ClosedVocabularyID_1 ... ClosedVocabularyID_n (max 60 per Substring row)}\n  )\n)]"
+}
